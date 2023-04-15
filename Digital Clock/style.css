@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+body {
+  background-image: url(image/back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* overflow: hidden; */
+  height: 100vh;
+}
+
+.card-header {
+  font-family: "roboto";
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.data {
+  font-size: 50px;
+}
+
+.container {
+  width: 70% !important;
+}
+
+.toggler{
+  margin-top: -12%;
+}
+.switch {
+  position: absolute;
+  margin-top: 10%;
+}
